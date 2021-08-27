@@ -13,7 +13,6 @@ My very opinionated prettier config. If you're not me you probably shouldn't use
 		- [VS Code](#vs-code)
 		- [Sublime Text 3](#sublime-text-3)
 		- [Atom](#atom)
-	- [Pre-commit Hooks](#pre-commit-hooks)
 	- [Publishing to npm](#publishing-to-npm)
 	- [Enforced Rules](#enforced-rules)
 

@@ -1,11 +1,11 @@
 {
-  "name": "@upstatement/prettier-config",
-  "version": "1.1.0",
-  "description": "Upstatement's base prettier configuration",
+  "name": "@igoro00/prettier-config",
+  "version": "1.1.1",
+  "description": "My base prettier configuration",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Upstatement/prettier-config"
+    "url": "https://github.com/igoro00/prettier-config"
   },
   "keywords": [
     "prettier",
@@ -13,13 +13,12 @@
     "upstatement"
   ],
   "author": {
-    "name": "Upstatement",
-    "email": "tech@upstatement.com",
-    "twitter": "@upstatement"
+    "name": "igoro00",
+    "email": "igor.ordecha@gmail.com"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Upstatement/prettier-config/issues"
+    "url": "https://github.com/igoro00/prettier-config/issues"
   },
   "dependencies": {
     "prettier": "^2.x.x"
