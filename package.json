@@ -1,6 +1,6 @@
 {
   "name": "@igoro00/prettier-config",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "My base prettier configuration",
   "main": "index.js",
   "repository": {
@@ -10,7 +10,7 @@
   "keywords": [
     "prettier",
     "config",
-    "upstatement"
+    "igoro00"
   ],
   "author": {
     "name": "igoro00",

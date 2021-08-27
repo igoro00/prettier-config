@@ -1,6 +1,6 @@
 # Prettier Config
 
-[![npm version](https://badge.fury.io/js/%40upstatement%2Fprettier-config.svg)](https://badge.fury.io/js/%40upstatement%2Fprettier-config)
+[![npm version](https://badge.fury.io/js/@igoro00%2Fprettier-config.svg)](https://badge.fury.io/js/@igoro00%2Fprettier-config)
 
 My very opinionated prettier config. If you're not me you probably shouldn't use it.
 
