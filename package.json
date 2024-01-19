@@ -1,6 +1,6 @@
 {
   "name": "@igoro00/prettier-config",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "My base prettier configuration",
   "main": "index.js",
   "repository": {
@@ -21,6 +21,7 @@
     "url": "https://github.com/igoro00/prettier-config/issues"
   },
   "dependencies": {
-    "prettier": "^2.x.x"
+    "prettier": "^3.x.x",
+    "prettier-plugin-tailwindcss": "^0.5.11"
   }
 }
